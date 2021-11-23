@@ -2,7 +2,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=tolyod&show_icons=true&theme=dracula)](https://github.com/tolyod)
 
-[⌂🗏](tolyod.github.io)
+[⌂ 🗏](https://tolyod.github.io)
 
 <!---
 tolyod/tolyod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
