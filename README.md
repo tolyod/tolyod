@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tolyod.tolyod)
 
-[![](https://github-readme-stats.vercel.app/api?username=tolyod&show_icons=true&theme=dracula)](https://github.com/tolyod)
+[![](https://github-readme-stats-gcdi0qh7j-tolyod.vercel.app/api?username=tolyod&show_icons=true&theme=dracula)](https://github.com/tolyod)
 
 [⌂ 🗏](https://tolyod.github.io)
 
